@@ -1,4 +1,4 @@
-### Hi, I'm Stephanie 😃 
+### Hi there, I'm Stephanie 😃 
 
 📚 I'm an electrical and biomedical engineering student at the University of British Columbia in Vancouver, Canada. 
 
