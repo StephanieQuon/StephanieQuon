@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Stephanie 😃 
+
+📚 I'm an electrical and biomedical engineering student at the University of British Columbia in Vancouver, Canada. 
+
+🎉 Currently, I am a Software Engineering Intern @ Microsoft, and a Research Assistant @ BC Centre for Disease Control Public Health Bioinformatics Lab.
+
+✨ In the past, I was a CS Teaching Assistant, and a Research Assistant @ Neuroethics Canada, BCCHRI Digital Health Innovation Lab, and BCCHRI Lewis Lab. 
+
+🌱 In my free time, I value volunteering in the community. I founded The Sprouts Initiative, I volunteer as a Crisis Call Taker with the National Suicide Line, and I help write grants for my local Crisis Centre. I enjoy connecting with people and learning new things. 
 
 <!--
 **StephanieQuon/StephanieQuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
