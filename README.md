@@ -2,6 +2,7 @@
 
 I am an electrical engineering (biomedical option) student at the University of British Columbia in Vancouver, Canada! 
 Currently, I am a Software Engineering Intern at Microsoft, and a Research Assistant at the BC Centre for Disease Control.
+Contact me at quons (at) student.ubc.ca :) 
 
 <!--
 **StephanieQuon/StephanieQuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
