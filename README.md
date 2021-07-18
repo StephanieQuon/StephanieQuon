@@ -1,6 +1,6 @@
-### Hi there! I'm Stephanie 😃 
+### Hi there! I'm Stephanie (she/her) 😃 
 
-I am an electrical engineering (biomedical option) student at the University of British Columbia in Vancouver, Canada! 
+I study electrical engineering (biomedical option) at the University of British Columbia in Vancouver, Canada! 
 Currently, I am a Software Engineering Intern at Microsoft. Contact me at quons (at) student.ubc.ca :) 
 
 <!--
