@@ -2,7 +2,7 @@
 
 📚 I am in my 3rd year of electrical engineering at the University of British Columbia in Vancouver, Canada
 
-🌱 Currently, I am a Software Engineering Intern at Microsoft, and a Research Assistant at the BCCDC
+🌱 Currently, I am a Software Engineering Intern at Microsoft and a Research Assistant at the BCCDC
 
 📫 Reach me at quons (at) student.ubc.ca :) 
 
