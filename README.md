@@ -1,7 +1,9 @@
 ### Hi there! I'm Steph (she/her) 😃 
 
 📚 I am in my 3rd year of electrical engineering at the University of British Columbia in Vancouver, Canada.
+
 🌱 Currently, I am a Data Science Intern at JMIR Publications. Previously, I was a SWE Intern at Microsoft. 
+
 📫 Reach me at quons (at) student.ubc.ca :) 
 
 <!--
