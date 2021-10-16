@@ -1,8 +1,6 @@
 ### Hi there! I'm Steph (she/her) 😃 
 
-📚 I am in my 3rd year of electrical engineering at the University of British Columbia in Vancouver, Canada.
-
-📫 Reach me at quons (at) student.ubc.ca :) 
+I am in my 3rd year of electrical engineering at the University of British Columbia in Vancouver, Canada. Reach me at quons (at) student.ubc.ca :) 
 
 <!--
 **StephanieQuon/StephanieQuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
