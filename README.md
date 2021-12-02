@@ -1,6 +1,6 @@
 ### Hi there! I'm Steph (she/her) 😃 
 
-I am a 3rd year electrical engineering student at the University of British Columbia in Vancouver, Canada. Previously, I was a software engineering intern at Microsoft, and I am currently a data science intern at JMIR Publications and a research assistant at the BC Centre for Disease Control and the Centre for Molecular Medicine and Therapeutics. Reach me at quons (at) student.ubc.ca :) 
+I'm a 3rd year electrical engineering student at the University of British Columbia in Vancouver, Canada. Previously, I was a software engineering intern at Microsoft, and I'm currently a data science intern at JMIR Publications and a research assistant at the BC Centre for Disease Control and the Centre for Molecular Medicine and Therapeutics. Reach me at quons (at) student.ubc.ca :) 
 
 <!--
 **StephanieQuon/StephanieQuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
