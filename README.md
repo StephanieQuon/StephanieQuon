@@ -1,6 +1,6 @@
 ### Hi! I'm Steph (she/her) 😃 
 
-I am a 4th year electrical engineering student at the University of British Columbia! Previously, I interned at Microsoft and Goldman Sachs, and I am currently at Medtronic. My email is quons@student.ubc.ca :-) 
+I am a 4th year electrical engineering student at the University of British Columbia! Previously, I interned at Microsoft, Goldman Sachs, and Medtronic. My email is quons@student.ubc.ca :) 
 
 <!--
 **StephanieQuon/StephanieQuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
