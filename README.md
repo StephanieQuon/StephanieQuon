@@ -1,6 +1,6 @@
-### Hi! I'm Steph (she/her) 😃 
+### Hi! My name is Stephanie (she/her) 😊
 
-I am in my final year studying electrical engineering at the University of British Columbia, and I previously interned at Microsoft, Goldman Sachs, and Medtronic. My email is quons@student.ubc.ca :) 
+I am in my final year studying electrical engineering at the University of British Columbia, and I previously interned at Microsoft, Goldman Sachs, and Medtronic. My email is quons@student.ubc.ca.
 
 <!--
 **StephanieQuon/StephanieQuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
