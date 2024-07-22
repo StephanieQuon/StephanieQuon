@@ -1,4 +1,4 @@
-### Hi! My name is Stephanie (she/her) 😊
+### Hi! My name is Stephanie (she/her)
 
 I graduated with a BASc in Electrical Engineering at the University of British Columbia, and I currently work as an Electrical Engineer-in-Training (EIT) at BC Hydro. My email is quons@student.ubc.ca.
 
