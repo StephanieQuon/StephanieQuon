@@ -1,6 +1,6 @@
 ### Hi! My name is Stephanie (she/her)
 
-I am an MD student at UBC, and I previously graduated with a BASc in Electrical Engineering from UBC. My email is quons@student.ubc.ca.
+I am an MD student at UBC, and I previously graduated with a BASc in Electrical Engineering from UBC! My email is quons@student.ubc.ca.
 
 <!--
 **StephanieQuon/StephanieQuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
